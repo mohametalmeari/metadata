@@ -1,0 +1,6 @@
+{
+  "name": "Fake Coin",
+  "symbol": "FAKE",
+  "description": "This is a fake coin used for testing purposes.",
+  "image": "https://raw.githubusercontent.com/mohametalmeari/metadata/refs/heads/main/fakecoin.png"
+}
